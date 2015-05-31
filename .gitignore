@@ -4,3 +4,7 @@
 vendor/
 composer.lock
 composer.phar
+
+
+#OS x
+.DS_Store
