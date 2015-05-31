@@ -1,0 +1,3 @@
+.custom-thumbnail-class {
+@include thumb;
+}
